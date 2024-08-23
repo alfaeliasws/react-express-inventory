@@ -1,6 +1,10 @@
 # INVENTORY MANAGEMENT APP
 
-# TECH STACK
+[overview.webm](https://github.com/user-attachments/assets/3951f2e8-51de-4cdb-bfa7-effb7a00b1b3)
+
+[update-feature.webm](https://github.com/user-attachments/assets/61e5a27f-98be-4c7d-a540-578758329403)
+
+#TECH STACK
 * TailwindCSS : I use Tailwind for the styling, as the class is great for the development process and the classes are UI friendly too (having many color options and almost all of the CSS styling general styles (flex, grid, block, etc))
 * React : It is the industry standard of the front end (especially in the west), it makes the front end to work optimally with the robust development also (not to be too 'templaty' and the use of the state is great especially for one page app)
 * Axios : For API Calling i use axios for simpler API Call than using AJAX/xhr
